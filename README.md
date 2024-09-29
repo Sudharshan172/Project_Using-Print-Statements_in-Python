@@ -1,0 +1,1 @@
+A Simple Tip Calculator Project is developed using input() and print() functions.
